@@ -1,0 +1,33 @@
+1. What is Git?
+Git is a version control system for tracking changes in computer files and is used to help coordinate work among several people on a project while tracking progress over time. In other words, it’s a tool that facilitates source code management in software development.
+
+Git favors both programmers and non-technical users by keeping track of their project files. It enables multiple users to work together and handles large projects efficiently.
+
+
+
+2.How is Git different from Subversion (SVN)?
+GIT                                                                                                                        SVN
+
+Git is a distributed decentralized version control system                                        SVN is a centralized version control system.
+
+Git stores content in the form of metadata.                                                      SVN stored data in the form of files.
+
+The master contains the latest stable release.                                                   In SVN, the trunk directory has the latest stable release 
+
+The contents of Git are hashed using the SHA-1 hash algorithm.                                   SVN doesn’t support hashed contents. 
+
+
+
+
+3.Git Version Control System
+A version control system is a software that tracks changes to a file or set of files over time so that you can recall specific versions later. It also allows you to work together with other programmers.
+
+The version control system is a collection of software tools that help a team to manage changes in a source code. It uses a special kind of database to keep track of every modification to the code.
+
+Developers can compare earlier versions of the code with an older version to fix the mistakes.
+
+
+
+4.What Does Distributed Version Control System (DVCS) Mean?
+A distributed version control system (DVCS) is a version control system that operates on a distributed hardware principle or, in some other distributed computing systems, like a virtual network.
+
